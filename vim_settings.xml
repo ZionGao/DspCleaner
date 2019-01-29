@@ -1,0 +1,364 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/moxiu/theme_feed_sys/resources/s.properties" timestamp="1547534846695">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="43" column="20" />
+        <mark key="." line="43" column="20" />
+        <mark key="^" line="43" column="20" />
+      </file>
+      <file name="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/ReadBsonUtil.scala" timestamp="1542616621564">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+      </file>
+      <file name="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/ProfileRankGenerator.scala" timestamp="1547538274629">
+        <mark key="'" line="143" column="26" />
+        <mark key="[" line="148" column="20" />
+        <mark key="]" line="148" column="20" />
+        <mark key="^" line="143" column="43" />
+        <mark key="." line="148" column="20" />
+      </file>
+      <file name="D:/moxiu/ktime_recommend_13/src/main/scala/com/moxiu/bigdata/CleanAction.scala" timestamp="1543573093740">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
+      <file name="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/LoadDataService.scala" timestamp="1548332492292" />
+      <file name="D:/moxiu/ktime_recommend_13/src/main/scala/com/moxiu/bigdata/KtimeLogClean.scala" timestamp="1545127647908">
+        <mark key="[" line="122" column="1" />
+        <mark key="]" line="130" column="2" />
+        <mark key="^" line="107" column="107" />
+        <mark key="." line="140" column="2" />
+      </file>
+      <file name="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/test.scala" timestamp="1548331533738">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="57" />
+        <mark key="^" line="17" column="57" />
+        <mark key="." line="17" column="57" />
+      </file>
+      <file name="E:/demo/ideademo/BD_IAServer_Maven/src/main/java/Kmeans.scala" timestamp="1542366545172">
+        <mark key="'" line="25" column="19" />
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="14" />
+        <mark key="^" line="41" column="14" />
+        <mark key="." line="41" column="14" />
+      </file>
+      <file name="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/handler/UserBehaviorCleaner.scala" timestamp="1542704952463">
+        <mark key="[" line="33" column="9" />
+        <mark key="]" line="33" column="41" />
+      </file>
+      <file name="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/BehaviorDataCleanUtil.scala" timestamp="1542705811838">
+        <mark key="[" line="33" column="2" />
+        <mark key="]" line="102" column="4" />
+      </file>
+      <file name="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/UserSetAction.scala" timestamp="1542773825348">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="34" />
+        <mark key="^" line="44" column="104" />
+        <mark key="." line="10" column="34" />
+      </file>
+      <file name="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/handler/RecommendRankGenerator.scala" timestamp="1542681114591">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="45" />
+      </file>
+      <file name="D:/moxiu/ktime_recommend_13/src/main/scala/com/moxiu/bigdata/UserProfileOfflineService.scala" timestamp="1544674506414">
+        <mark key="'" line="37" column="43" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="152" column="7" />
+        <mark key="^" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+      </file>
+      <file name="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/UserProfileOfflineService.scala" timestamp="1542773069277">
+        <mark key="'" line="12" column="40" />
+        <mark key="[" line="43" column="92" />
+        <mark key="]" line="42" column="97" />
+        <mark key="." line="42" column="64" />
+        <mark key="^" line="42" column="63" />
+      </file>
+      <file name="D:/moxiu/real_time_profile/src/main/scala/com/moxiu/bigdata/ProfileGenerator.scala" timestamp="1545118036970">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="24" column="3" />
+      </file>
+      <file name="D:/project_moxiu/dsp/src/main/scala/com/moxiu/bigdata/DspRealTimeCleaner.scala" timestamp="1545986166353">
+        <mark key="[" line="83" column="364" />
+        <mark key="]" line="83" column="34" />
+        <mark key="." line="83" column="26" />
+        <mark key="^" line="83" column="33" />
+      </file>
+      <file name="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/handler/EditedCollectionCleanner.scala" timestamp="1542355243282">
+        <mark key="[" line="30" column="25" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+      </file>
+      <file name="D:/moxiu/real_time_profile/src/main/scala/com/moxiu/bigdata/SyncContent.scala" timestamp="1544682402518">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" timestamp="1542362014420">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="57" column="32" />
+        <mark key="]" line="57" column="33" />
+        <mark key="." line="57" column="33" />
+        <mark key="^" line="36" column="40" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1542366472638">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/moxiu/real_time_profile/src/main/scala/com/moxiu/bigdata/CleanAction.scala" timestamp="1544069709679">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="59" column="42" />
+        <mark key="." line="59" column="42" />
+      </file>
+      <file name="/fragment.java" timestamp="1542364288392">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1542366472770">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" timestamp="1548331505892">
+        <mark key="'" line="144" column="44" />
+        <mark key="i" line="143" column="8" />
+        <mark key="[" line="314" column="6" />
+        <mark key="]" line="314" column="7" />
+        <mark key="^" line="294" column="5" />
+        <mark key="." line="314" column="7" />
+        <mark key="o" line="259" column="29" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="67" column="8" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="70" column="10" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="69" column="10" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="62" column="19" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="64" column="8" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="66" column="31" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="73" column="62" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="25" column="46" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="0" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="30" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="37" column="10" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="21" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="39" column="12" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="79" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="78" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="57" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="49" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="3" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="24" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="26" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="29" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="48" column="4" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="35" column="4" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="47" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="34" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="36" column="1" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="27" column="46" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="28" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="33" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="45" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="46" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="53" column="0" filename="D:/moxiu/log_clean/src/main/scala/com/moxiu/bigdata/util/HBaseBulkLoad.java" />
+      <jump line="35" column="0" filename="E:/demo/ideademo/BD_IAServer_Maven/src/main/java/Kmeans.scala" />
+      <jump line="21" column="4" filename="E:/demo/ideademo/BD_IAServer_Maven/src/main/java/Kmeans.scala" />
+      <jump line="25" column="19" filename="E:/demo/ideademo/BD_IAServer_Maven/src/main/java/Kmeans.scala" />
+      <jump line="41" column="0" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/ReadBsonUtil.scala" />
+      <jump line="40" column="0" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/ReadBsonUtil.scala" />
+      <jump line="17" column="4" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/ReadBsonUtil.scala" />
+      <jump line="20" column="6" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/ReadBsonUtil.scala" />
+      <jump line="23" column="18" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/ReadBsonUtil.scala" />
+      <jump line="29" column="22" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/ReadBsonUtil.scala" />
+      <jump line="43" column="0" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/ReadBsonUtil.scala" />
+      <jump line="34" column="0" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/ReadBsonUtil.scala" />
+      <jump line="9" column="2" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/ReadBsonUtil.scala" />
+      <jump line="28" column="0" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/ReadBsonUtil.scala" />
+      <jump line="31" column="3" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/UserProfileOfflineService.scala" />
+      <jump line="33" column="0" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/UserProfileOfflineService.scala" />
+      <jump line="25" column="29" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/UserProfileOfflineService.scala" />
+      <jump line="12" column="40" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/UserProfileOfflineService.scala" />
+      <jump line="44" column="8" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/UserSetAction.scala" />
+      <jump line="48" column="18" filename="D:/moxiu/profile_generator_ktime/src/main/scala/com/moxiu/bigdata/UserSetAction.scala" />
+      <jump line="52" column="78" filename="D:/moxiu/ktime_recommend_13/src/main/scala/com/moxiu/bigdata/UserProfileOfflineService.scala" />
+      <jump line="50" column="51" filename="D:/moxiu/ktime_recommend_13/src/main/scala/com/moxiu/bigdata/UserProfileOfflineService.scala" />
+      <jump line="57" column="7" filename="D:/moxiu/ktime_recommend_13/src/main/scala/com/moxiu/bigdata/UserProfileOfflineService.scala" />
+      <jump line="37" column="43" filename="D:/moxiu/ktime_recommend_13/src/main/scala/com/moxiu/bigdata/UserProfileOfflineService.scala" />
+      <jump line="97" column="31" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" />
+      <jump line="52" column="9" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" />
+      <jump line="103" column="0" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" />
+      <jump line="108" column="0" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" />
+      <jump line="107" column="35" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" />
+      <jump line="102" column="53" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" />
+      <jump line="105" column="97" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" />
+      <jump line="111" column="40" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" />
+      <jump line="227" column="19" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" />
+      <jump line="151" column="40" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" />
+      <jump line="152" column="44" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/SimUserRankGenerator.scala" />
+      <jump line="143" column="26" filename="D:/moxiu/theme_feed_sys/src/main/scala/com/moxiu/bigdata/ProfileRankGenerator.scala" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PgogICAgICAgICAgCiAgICAgICAgfQ==</text>
+      </register>
+      <register name="-" type="4">
+        <text>2</text>
+      </register>
+      <register name="/" type="4">
+        <text>/\t/a/g</text>
+      </register>
+      <register name="0" type="4">
+        <text>daysOfUserProfile</text>
+      </register>
+      <register name="p" type="4">
+        <keys>
+          <key char="58" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="27" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">PgogICAgICAgICAgCiAgICAgICAgfQ==</text>
+      </register>
+      <register name="q" type="4">
+        <text>:String,</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHZhbCBzdGFydERhdGUgPSBkZi5mb3JtYXQobmV3IERhdGUod2hlbi5nZXRUaW1lIC0gZGF5c0ZvclVwZGF0aW5nRG93bmxvYWRIaXN0b3J5LnRvTG9uZyAqIDI0ICogMzYwMCAqIDEwMDBMKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB2YWwgbnVtT2ZIZmlsZVNsaWNlcyA9IHByb3AuZ2V0UHJvcGVydHkoIm51bU9mSGZpbGVTbGljZXMiKS50b0ludAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB2YWwgdGhlbWVJbmZvVGFibGUgPSBwcm9wLmdldFByb3BlcnR5KCJ0aGVtZUluZm9UYWJsZSIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB2YWwgc3RhZ2luZ0ZvbGRlciA9IHByb3AuZ2V0UHJvcGVydHkoInN0YWdpbmdGb2xkZXIiKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAuYWdncmVnYXRlQnlLZXkoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAuYWdncmVnYXRlQnlLZXkoKQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">dmFsIGlucHV0ID0gc3FsQ29udGV4dC5zcWwoInNlbGVjdCB0aW1lLHRoZW1lX2lkLHVzZXJfaWQsYWN0X3R5cGUgIiArCiAgICAgICJmcm9tIHRoZW1lX2ZlZWRfc3lzLnVzZXJiZWhhdmlvciB3aGVyZSAgcHQ+JyIrYmVmb3JlKyInIiApLnJkZA==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Y2FzZSBjbGFzcyBBcHBBZChhZHNfaWQ6U3RyaW5nLGN0aW1lOlN0cmluZyxpcDpTdHJpbmcpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>s%/\t/a/g</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>/\t/a/g</last-search>
+      <last-offset />
+      <last-pattern>/\t/a/g</last-pattern>
+      <last-replace />
+      <last-substitute>/\t/a/g</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>hadoop</entry>
+        <entry>sc</entry>
+        <entry encoding="base64">XDxjYXNlXD4=</entry>
+        <entry>\+ \&quot;\\t\&quot; \+</entry>
+        <entry>\+</entry>
+        <entry>+</entry>
+        <entry>ctime</entry>
+        <entry>act_type</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
+        <entry encoding="base64">XDxfMlw+</entry>
+        <entry encoding="base64">XDx3aGVuXD4=</entry>
+        <entry>/\t/a/g</entry>
+      </history-search>
+      <history-cmd>
+        <entry>gc</entry>
+        <entry>/hadoop</entry>
+        <entry>%s@\+ \&quot;\\t\&quot; \+@\,@gc</entry>
+        <entry>%s@\+@\,@gc</entry>
+        <entry>%s@+@\,@gc</entry>
+        <entry>%s/ctime/timestamp/gc</entry>
+        <entry>%s/act_type/action/gc</entry>
+        <entry>reg</entry>
+        <entry>s%/\t/a/g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
